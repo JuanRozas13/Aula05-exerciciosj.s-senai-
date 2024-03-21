@@ -1,0 +1,9 @@
+
+		e
+and (e) if (x>5 && y15>)
+
+		pip
+or (ou) if (x>5 || y15>)
+
+		negação
+not (negar) if (!(x>15)) 
